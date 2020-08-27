@@ -1,6 +1,7 @@
 Answer 1
 
 git version 2.26.2.windows.1
+
 Answer 2
 
 diff.astextplain.textconv=astextplain
